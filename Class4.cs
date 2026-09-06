@@ -8,7 +8,8 @@ namespace Prashant_Singh
     {
         public string GetDetails()
         {
-            string str = "Your Details";
+            string str;
+            str = "Prashant Singh " + "Nishant Singh";
             return str;
 
         }
