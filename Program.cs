@@ -9,6 +9,7 @@
             c1.Class1Test1();
             Class2 c2 = new Class2();
             c2.Class2Test1();
+            Console.WriteLine("Checking merge options");
         }
     }
 }
