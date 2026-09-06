@@ -6,9 +6,12 @@ namespace Prashant_Singh
     {
         static void Main(string[] args)
         {
-            Class3 c3 = new Class3 ();
-            string str1 = c3.GetName();
-            Console.WriteLine(str1);
+            int i = 0;
+            do
+            {
+                Console.WriteLine("Hello I am from master branch" + i);
+                i++;
+            } while (i < 10);
         }
     }
 }
