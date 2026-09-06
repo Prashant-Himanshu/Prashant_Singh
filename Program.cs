@@ -57,6 +57,8 @@ namespace Prashant_Singh
             Console.WriteLine("Application completed");
             Class1 c = new Class1();
             c.Class1Test1();
+            Class2 c2 = new Class2();
+            c2.Class2Test1();
         }
     }
 }
