@@ -13,6 +13,8 @@ namespace Prashant_Singh
             Console.WriteLine("Tuk Tuk ");
 
             Console.WriteLine("Tak Tak ");
+            Console.WriteLine("Pull then push trying ");
+
 
 
 

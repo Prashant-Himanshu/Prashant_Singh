@@ -14,6 +14,8 @@ namespace Prashant_Singh
             Console.WriteLine("heheheh ");
 
             Console.WriteLine("nut nut ");
+            Console.WriteLine("pull then push trying ");
+
 
 
 
