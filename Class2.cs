@@ -10,6 +10,10 @@ namespace Prashant_Singh
         {
             Console.WriteLine("i am class2 method ");
             Console.WriteLine("heheheh ");
+            Console.WriteLine("Tuk Tuk ");
+
+            Console.WriteLine("Tak Tak ");
+
 
 
         }

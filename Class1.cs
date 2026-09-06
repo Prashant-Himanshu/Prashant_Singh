@@ -10,6 +10,11 @@ namespace Prashant_Singh
         {
             Console.WriteLine("It is class1 test1 method");
             Console.WriteLine("I am working fine");
+            Console.WriteLine("Last Update");
+            Console.WriteLine("heheheh ");
+
+            Console.WriteLine("nut nut ");
+
 
 
         }
