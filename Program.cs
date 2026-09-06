@@ -6,6 +6,10 @@ namespace Prashant_Singh
     {
         static void Main(string[] args)
         {
+            for (int i = 0; i < 10; i++)
+            {
+                Console.WriteLine("Line Number " + i);
+            }
             int i = 0;
             do
             {
