@@ -6,6 +6,7 @@ namespace Prashant_Singh
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("This is New Branch");
             Console.WriteLine("This is master branch");
         }
     }
