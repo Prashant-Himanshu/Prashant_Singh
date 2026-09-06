@@ -9,6 +9,9 @@ namespace Prashant_Singh
         public void Class2Test1()
         {
             Console.WriteLine("i am class2 method ");
+            Console.WriteLine("heheheh ");
+
+
         }
     }
 }
