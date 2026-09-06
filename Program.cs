@@ -10,6 +10,12 @@
             Class2 c2 = new Class2();
             c2.Class2Test1();
             Console.WriteLine("Checking merge options");
+            int a = 5;
+            int b = 5;
+            if (a ==b)
+            {
+                Console.WriteLine("Now merge and conflicts are working");
+            }
         }
     }
 }
