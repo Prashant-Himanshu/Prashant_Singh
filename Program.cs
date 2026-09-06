@@ -6,11 +6,7 @@ namespace Prashant_Singh
     {
         static void Main(string[] args)
         {
-            for (int i = 0; i < 10; i++)
-            {
-                Console.WriteLine("Line Number " + i);
-            }
-            Console.WriteLine("Kya ho rha hai ");
+            Console.WriteLine("This is New Branch");
         }
     }
 }
