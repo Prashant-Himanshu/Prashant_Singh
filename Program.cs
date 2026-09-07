@@ -8,6 +8,7 @@ namespace Prashant_Singh
         {
             Console.WriteLine("I am main method from new branch");
             Console.WriteLine("I am main method from master branch");
+            Console.WriteLine("ksksks");
         }
     }
 }
