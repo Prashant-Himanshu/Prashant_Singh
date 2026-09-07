@@ -6,6 +6,7 @@ namespace Prashant_Singh
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("I am main method from new branch");
             Console.WriteLine("I am main method from master branch");
         }
     }
