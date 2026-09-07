@@ -8,18 +8,10 @@ namespace Prashant_Singh
     {
         public void Class1Test1()
         {
-            Console.WriteLine("It is class1 test1 method");
-            Console.WriteLine("I am working fine");
-            Console.WriteLine("Last Update");
-            Console.WriteLine("heheheh ");
-
-            Console.WriteLine("nut nut ");
-            Console.WriteLine("Pull and push trying from GiTHUB");
-            Console.WriteLine("pull then push trying ");
 
 
 
-
+            Console.WriteLine("Hey i am line number 14 from master branch");
         }
     }
 }
